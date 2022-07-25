@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class boj16236 {
+public class BOJ_16236 {
 
     static int N;
     static int[][] board;

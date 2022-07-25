@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class boj17144 {
+public class BOJ_17144 {
 
     static int[][] board;
     static int[][] diffusion;
