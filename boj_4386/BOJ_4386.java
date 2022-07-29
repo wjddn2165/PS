@@ -1,4 +1,4 @@
-package mst;
+package boj_4386;
 
 import java.io.BufferedReader;
 import java.io.IOException;
